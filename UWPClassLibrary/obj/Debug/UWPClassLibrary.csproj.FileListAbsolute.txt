@@ -1,0 +1,20 @@
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\Debug\UWPClassLibrary.dll
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\Debug\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\Debug\UWPClassLibrary.pri
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\UWPClassLibrary.dll
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\ResourceHandlingTask.state
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\priconfig.xml
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\priconfig.xml.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\layout.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\layout.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\resources.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\resources.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\pri.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\pri.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\qualifiers.txt
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\qualifiers.txt.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.dll
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.pdb
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.pri

@@ -1,0 +1,5 @@
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\UWPClassLibrary.dll
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibraryStubWin\obj\Debug\UWPClassLibrary.dll
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibraryStubWin\obj\Debug\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibraryStubWin\obj\Debug\UWPClassLibraryStubWin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\x86\Debug\UWPClassLibrary.dll
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\x86\Debug\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\bin\x86\Debug\UWPClassLibrary.pri
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\Metro\UWPClassLibrary.dll
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\Metro\UWPClassLibrary.pdb
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\Metro\UWPClassLibrary.pri
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.dll
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.pdb
+c:\users\krrothe\documents\ErlangenHackProject\Assets\Plugins\WSA\UWPClassLibrary.pri
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\UWPClassLibrary.dll
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\UWPClassLibrary.pdb
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\priconfig.xml
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\layout.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\resources.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\pri.resfiles
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\qualifiers.txt
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\krrothe\documents\visual studio 2015\Projects\UWPClassLibrary\UWPClassLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
